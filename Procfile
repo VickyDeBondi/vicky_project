@@ -1,1 +1,1 @@
-web: pip install . -U && vicky_project-run
+web: pip install . -U && thevickyproject-run
